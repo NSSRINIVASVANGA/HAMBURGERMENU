@@ -1,0 +1,18 @@
+.home-con {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.images {
+  width: 350px;
+}
+
+.con {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto";
+}
